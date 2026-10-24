@@ -1,6 +1,6 @@
 # Aaryan Singh
 
-I build AI agent infrastructure, systems, and developer tools. Most of my current work is in Rust and Python.
+I build AI agent infrastructure, systems, and developer tools.
 
 Previously, I was the founding engineer at ReferRush, where I built Shopify integrations, referral flows, and payout systems.
 
@@ -17,5 +17,7 @@ Previously, I was the founding engineer at ReferRush, where I built Shopify inte
 ## Open source
 
 Merged contributions to [Atuin](https://github.com/atuinsh/atuin/pulls?q=is%3Apr+is%3Amerged+author%3Amaskjelly), [Podman Desktop](https://github.com/podman-desktop/podman-desktop/pulls?q=is%3Apr+is%3Amerged+author%3Amaskjelly), [WebTUI](https://github.com/webtui/webtui/pulls?q=is%3Apr+is%3Amerged+author%3Amaskjelly), [iamb](https://github.com/ulyssa/iamb/pulls?q=is%3Apr+is%3Amerged+author%3Amaskjelly), and [other projects](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Amaskjelly+-user%3Amaskjelly).
+
+I work with JavaScript, TypeScript, Python, C, C++, and Rust.
 
 I also write about storage, distributed systems, and systems programming at [whiteye.in](https://whiteye.in/blog).
